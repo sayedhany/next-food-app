@@ -40,9 +40,9 @@ Welcome to the **Foodies Starting Project**! This application is designed to hel
 
 ## Technologies Used
 
-- **Frontend**: React, CSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
+- **Frontend**: React, CSS, Next
+- **Backend**: Node.js
+- **Database**: postgres
 
 ## Contributing
 
