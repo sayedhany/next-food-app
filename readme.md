@@ -31,7 +31,7 @@ Welcome to the **Foodies Starting Project**! This application is designed to hel
 
 1. Start the development server:
   ```bash
-  npm start
+  npm run dev
   ```
 2. Open your browser and navigate to:
   ```
