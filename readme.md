@@ -2,6 +2,8 @@
 
 Welcome to the **Foodies Starting Project**! This application is designed to help food enthusiasts explore, share, and enjoy culinary experiences.
 
+## Live view: https://next-food-l52xgor9g-sayedhanys-projects.vercel.app/
+
 ## Features
 
 - Browse a variety of recipes.
@@ -14,7 +16,7 @@ Welcome to the **Foodies Starting Project**! This application is designed to hel
 
 1. Clone the repository:
   ```bash
-  git clone <repository-url>
+  git clone https://github.com/sayedhany/next-food-app
   ```
 2. Navigate to the project directory:
   ```bash
